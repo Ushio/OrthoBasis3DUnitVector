@@ -1,11 +1,9 @@
 ## Building an Orthonormal Basis
-Tom Duff, James Burgess, Per Christensen, Christophe Hery, Andrew Kensler, Max Liani, and Ryusuke Villemin, "Building an Orthonormal Basis, Revisited"
 Frisvad, Jeppe Revall, "Building an Orthonormal Basis from a 3D Unit Vector Without Normalization"
 
-from 
-http://jcgt.org/published/0006/01/01/
+Tom Duff, James Burgess, Per Christensen, Christophe Hery, Andrew Kensler, Max Liani, and Ryusuke Villemin, "Building an Orthonormal Basis, Revisited"
 
-japanease blog
+japanease super cool blog<br>
 https://tyfkda.github.io/blog/2017/09/07/onb-revisited.html
 
 ## demo
