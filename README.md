@@ -12,7 +12,7 @@ https://tyfkda.github.io/blog/2017/09/07/onb-revisited.html
 ## dependency
 openframeworks 0.10.0
 
-## for copy and paste (right hand coordinate system)
+## for copy and paste
 
 ```
 
